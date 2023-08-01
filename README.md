@@ -36,13 +36,10 @@ I'm Dan, the guy who owns <a href='https://dsc.gg/daxg'>Dan</a> Discord Bot and 
 
 ## 🔗 My Community
 
-Enjoy playing Minecraft on a 24/7 Server with your friends and show off your playlists at Music Nights.
-
-[![Community](https://discordapp.com/api/guilds/1025544643171070003/widget.png?style=banner2)](https://dsc.gg/daxg)
 
 Needs help with creating your own Discord Bot? We are here to help
 
-[![Community](https://discordapp.com/api/guilds/936945830047395860/widget.png?style=banner2)](https://dsc.gg/daxg)
+[![Community](https://discordapp.com/api/guilds/936945830047395860/widget.png?style=banner4)](https://dsc.gg/daxg)
 
 ## 📈 &nbsp;GitHub Analytics
 <p align="center">
