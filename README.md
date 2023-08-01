@@ -1,9 +1,6 @@
 ### Hello everyone, thank you for visiting my Github!!! 👋
 
 ## I'm [**Kieu Duy Anh (daxg)**](https://www.facebook.com/d4xgg) 👋
-<h1 align="center">
-    <img src="dangif.gif"/>
-</h1>
 <a href="#" target="_blank">
   <img src="ggstra.png" width="1200" alt="Click to see the source" />
 </a>
