@@ -1,4 +1,4 @@
-### Hello everyone, thank you for visiting my Github!!! 👋
+### Hello everyone, thank you for visiting my GitHub!!! 👋
 
 ## I'm [**Kieu Duy Anh (daxg)**](https://www.facebook.com/d4xgg) 👋
 <a href="#" target="_blank">
