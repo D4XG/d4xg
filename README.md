@@ -47,9 +47,10 @@ Needs help with creating your own Discord Bot? We are here to help
 ## 📈 &nbsp;GitHub Analytics
 <p align="center">
 <a style="text-decoration: none;" href="https://github.com/d4xg">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=d4xg&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=d4xg&theme=dark&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
-![d4xg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d4xg&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<a style="text-decoration: none;" href="https://github.com/Elitex07">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elitex07&theme=dark&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 </p>
 
