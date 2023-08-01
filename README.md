@@ -51,9 +51,9 @@ Needs help with creating your own Discord Bot? We are here to help
 </a>
 </p>
 
-## :headphones: My Fav Spotify Playlists
+## :headphones: My Fav Apple Music Playlists
 
-[![Dan Playlist](https://img.icons8.com/color/48/apple-music.png)](https://music.apple.com/vn/playlist/pl.u-V9D7v0KC3LDekg5)
+[![Chill Playlist](https://img.icons8.com/color/48/apple-music.png)](https://music.apple.com/vn/playlist/pl.u-V9D7v0KC3LDekg5)
 
 
 ----
