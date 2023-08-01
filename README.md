@@ -49,8 +49,7 @@ Needs help with creating your own Discord Bot? We are here to help
 <a style="text-decoration: none;" href="https://github.com/d4xg">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=d4xg&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
-<a style="text-decoration: none;" href="https://github.com/d4xg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4xg&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+![d4xg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d4xg&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </a>
 </p>
 
