@@ -53,7 +53,7 @@ Needs help with creating your own Discord Bot? We are here to help
 
 ## :headphones: My Fav Spotify Playlists
 
-[![My Playlist](https://img.shields.io/badge/Mix%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0PUPQRJJGNdrcZktsP58TJ?si=f31ad6b41c6f4327) [![Walker Playlist](https://img.shields.io/badge/W47K3R5%20J01N-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://music.apple.com/vn/playlist/pl.u-V9D7v0KC3LDekg5)
+[![Dan Playlist](https://img.icons8.com/color/48/apple-music.png)](https://music.apple.com/vn/playlist/pl.u-V9D7v0KC3LDekg5)
 
 
 ----
