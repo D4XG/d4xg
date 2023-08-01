@@ -2,10 +2,10 @@
 
 ## I'm [**Kieu Duy Anh (daxg)**](https://www.facebook.com/d4xgg) 👋
 <h1 align="center">
-    <img src="home/dangif.gif"/>
+    <img src="dangif.gif"/>
 </h1>
 <a href="#" target="_blank">
-  <img src="home/ggstra.png" width="1200" alt="Click to see the source" />
+  <img src="ggstra.png" width="1200" alt="Click to see the source" />
 </a>
 
 # 📰 Talking about Information
@@ -15,13 +15,13 @@
 -   🌟 04/11
 -   💬 My nickname is Dan / Daxg
 -   🍁 Profile: **[Facebook](https://www.facebook.com/d4xgg), [Tiktok](https://tiktok.com/@k1euduy4nh)**
--   🍀 Describe yourself: **I love coding, it make me feel like i'm living. I also loves playing video games ( steam, mobile , vr).**
+-   🍀 Describe yourself: **I love coding, it makes me feel like I'm living. I also love playing video games ( steam, mobile, VR).**
 <hr>
 
 # 📖 Top Langs
 # Node js, Python,..
 ![](https://i.imgur.com/OjnuWzw.gif)
-![Hello](home/hello.svg)
+![Hello](hello.svg)
 # 🤝🏻 My Portfolio
 <p align="center">
 &nbsp; <a href="https://www.instagram.com/yeungocnhi/" target="_blank" rel="noopener noreferrer"><img width="120" height="120" src="https://img.icons8.com/fluency/120/instagram-new.png" alt="instagram-new"/>
