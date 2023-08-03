@@ -50,6 +50,7 @@ Needs help with creating your own Discord Bot? We are here to help
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elitex07&theme=dark&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 </p>
+<img width="480" height="480" src="https://img.icons8.com/sf-regular-filled/480/fa344d/help.png" alt="help"/>
 
 ## :headphones: My Fav Apple Music Playlists
 
