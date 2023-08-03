@@ -50,11 +50,10 @@ Needs help with creating your own Discord Bot? We are here to help
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elitex07&theme=dark&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 </p>
-<img width="480" height="480" src="https://img.icons8.com/sf-regular-filled/480/fa344d/help.png" alt="help"/>
 
 ## :headphones: My Fav Apple Music Playlists
 
 [![Chill Playlist](https://img.icons8.com/color/48/apple-music.png)](https://music.apple.com/vn/playlist/pl.u-V9D7v0KC3LDekg5)
-
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/profile/kieuduyanh"></iframe>
 
 ----
