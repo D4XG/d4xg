@@ -10,10 +10,9 @@
 
 # Hey there!
 
-I'm Dan, the guy who owns <a href='https://dsc.gg/daxg'>Dan</a> Discord Bot and a leader in <a href='https://dsc.gg/drmclan'>Dreamer</a> Community.
-
+I'm Dan, the guy who owns <a href='https://dsc.gg/daxg'>Dan</a> Discord Bot and a leader in <a href='https://dsc.gg/drmclan'>Dreamer Community.</a>
 - :muscle:  Currently upgrading Dan. bot and adding more features to it.
-- :trophy: Got a Trophy regarding Defensive Mid Fielding in Soccer
+- :trophy: Got a Trophy regarding Defensive Fielding in Soccer
 - :dart: To Learn Reactjs and other web development things
 
 
